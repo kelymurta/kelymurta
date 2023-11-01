@@ -7,6 +7,12 @@
 
 Seja bem-vindo(a) ao meu perfil! Sou uma entusiasta da Análise e Ciência de Dados em busca de insights que impulsionem a investigação, eficiência e excelência. Minha jornada é impulsionada pela curiosidade e pelo desejo de transformar dados em soluções práticas. Eu realmente acredito que os dados são uma chave para vender oportunidades de melhoria e tomar decisões informadas e seguras.
 
+📊 Minha Missão: Explorar vastos conjuntos de dados, extrair conhecimentos valiosos e aplicá-los para melhorar processos. Do desenho de algoritmos ao desenvolvimento de modelos preditivos, tenho foco na tomada de decisões com base em dados.
+
+💡 Aprendizado: A análise de dados é uma jornada em constante evolução. Estou sempre aprendendo, experimentando e aprimorando minhas habilidades para me manter atualizada com as tendências mais recentes.
+
+🌐 Colaboração: Estou aberta a colaborações em projetos de Análise de Dados e Ciência de Dados. Vamos trabalhar juntos para transformar dados em resultados!
+
 <!--
 **kelymurta/kelymurta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
