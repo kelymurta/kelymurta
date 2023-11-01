@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá, eu sou a Kely Murta! 
+#### <p align="center">Aqui eu vou das estrelas aos Dados, explorando o cosmos do conhecimento com códigos e números.</p> 
+
+
+<p align="center">Atualmente estou cursando Astrofísica e me adentrando cada vez mais no universo dos Dados.
+  Nesse GitHub você vai ver meus projetos em ambas as áreas. Sinta-se me casa. 📈🚀</p> 
+
+Seja bem-vindo(a) ao meu perfil! Sou uma entusiasta da Análise e Ciência de Dados em busca de insights que impulsionem a investigação, eficiência e excelência. Minha jornada é impulsionada pela curiosidade e pelo desejo de transformar dados em soluções práticas. Eu realmente acredito que os dados são uma chave para vender oportunidades de melhoria e tomar decisões informadas e seguras.
 
 <!--
 **kelymurta/kelymurta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
