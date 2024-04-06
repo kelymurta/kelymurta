@@ -22,11 +22,9 @@ Seja bem-vindo(a) ao meu perfil! Sou uma estagiária em Análise de dados e Dese
 
 ## 
 #### Ferramentas:
-<div>
+
 <img src="{https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white}"/>
 
-
-</div>
           
 ##                           
 #### Contatos:      
