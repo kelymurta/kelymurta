@@ -25,13 +25,12 @@ Seja bem-vindo(a) ao meu perfil! Sou uma estagiária em Análise de dados e Dese
 #### Sistemas operacionais: 
           
 #### Contatos:      
-<a href="https://www.instagram.com/kelymurta" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/kelymurta">
-</a>   
-< div  id = "badges" > 
-  < a  href = "[https://www.linkedin.com/in/kely-murta]" > 
-    < img  src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo =linkedin&logoColor=white"  alt = "LinkedIn Badge" /> 
-  </ a > 
+<div>
+<a href="https://instagram.com/kelymurta" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<a href = "mailto:contato@murtakely"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kelymurta" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 <!--
 **kelymurta/kelymurta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
