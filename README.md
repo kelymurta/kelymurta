@@ -15,7 +15,7 @@ Seja bem-vindo(a) ao meu perfil! Sou uma estagiária em Análise de dados e Dese
 
 ##
 #### Linguagens: 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelymurta&layout=compact)](https://github.com/USERNAME/github-readme-stats)
                     
 #### Ferramentas:
 
