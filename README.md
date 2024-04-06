@@ -15,8 +15,10 @@ Seja bem-vindo(a) ao meu perfil! Sou uma estagiária em Análise de dados e Dese
 
 ##
 #### Linguagens: 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+</div>
 
 ## 
 #### Ferramentas:
