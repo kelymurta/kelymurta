@@ -5,7 +5,7 @@
 <p align="center">Atualmente estou cursando Astrofísica e me adentrando cada vez mais no universo dos Dados.
   Nesse GitHub você vai ver meus projetos em ambas as áreas. Sinta-se me casa. 📈🚀</p> 
 
-Seja bem-vindo(a) ao meu perfil! Sou uma entusiasta da Análise e Ciência de Dados em busca de insights que impulsionem a investigação, eficiência e excelência. Minha jornada é impulsionada pela curiosidade e pelo desejo de transformar dados em soluções práticas. Eu realmente acredito que os dados são uma chave para vender oportunidades de melhoria e tomar decisões informadas e seguras.
+Seja bem-vindo(a) ao meu perfil! Sou uma estagiária em Análise de dados e Desenvolvimento low-code que está em busca de insights que impulsionem a investigação, eficiência e excelência. Minha jornada é impulsionada pela curiosidade e pelo desejo de transformar informações em soluções práticas. Eu realmente acredito que os dados são uma chave para vender oportunidades de melhoria e tomar decisões informadas e seguras. Além disso, tenho me aventurado na Ciência de dados e cada vez fico mais fascinada com esse universo.
 
 📊 Minha Missão: Explorar vastos conjuntos de dados, extrair conhecimentos valiosos e aplicá-los para melhorar processos. Do desenho de algoritmos ao desenvolvimento de modelos preditivos, tenho foco na tomada de decisões com base em dados.
 
@@ -13,6 +13,25 @@ Seja bem-vindo(a) ao meu perfil! Sou uma entusiasta da Análise e Ciência de Da
 
 🌐 Colaboração: Estou aberta a colaborações em projetos de Análise de Dados e Ciência de Dados. Vamos trabalhar juntos para transformar dados em resultados!
 
+##
+#### Linguagens: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+                    
+#### Ferramentas:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+          
+          
+
+#### Sistemas operacionais: 
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
+#### Contatos:      
+                   
 <!--
 **kelymurta/kelymurta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
