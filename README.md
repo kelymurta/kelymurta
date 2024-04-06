@@ -33,6 +33,7 @@ Seja bem-vindo(a) ao meu perfil! Sou uma estagiária em Análise de dados e Dese
 
 </div>
 
+##
 #### Sistemas operacionais: 
 <div>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
