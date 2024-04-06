@@ -14,23 +14,7 @@ Seja bem-vindo(a) ao meu perfil! Sou uma estagiária em Análise de dados e Dese
 🌐 Colaboração: Estou aberta a colaborações em projetos de Análise de Dados e Ciência de Dados. Vamos trabalhar juntos para transformar dados em resultados!
 
 ##
-#### Linguagens: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-                    
-#### Ferramentas:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-          
-          
-
-#### Sistemas operacionais: 
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-          
-#### Contatos:      
+     
                    
 <!--
 **kelymurta/kelymurta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
