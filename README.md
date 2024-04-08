@@ -3,9 +3,9 @@
 
 
 <p align="center">Atualmente estou cursando Astrofísica e me adentrando cada vez mais no universo dos Dados.
-  Nesse GitHub você vai ver meus projetos em ambas as áreas. Sinta-se me casa. 📈🚀</p> 
+  Nesse GitHub você vai ver meus projetos em ambas as áreas, além de alguns projetinhos em Power Apps que é a minha parte de desenvolvedora low-code. Sinta-se me casa. 📈🚀</p> 
 
-Seja bem-vindo(a) ao meu perfil! Sou uma estagiária em Análise de dados e Desenvolvimento low-code que está em busca de insights que impulsionem a investigação, eficiência e excelência. Minha jornada é impulsionada pela curiosidade e pelo desejo de transformar informações em soluções práticas. Eu realmente acredito que os dados são uma chave para vender oportunidades de melhoria e tomar decisões informadas e seguras. Além disso, tenho me aventurado na Ciência de dados e cada vez fico mais fascinada com esse universo.
+Seja bem-vindo(a) ao meu perfil! Sou uma estagiária em Análise de dados e Desenvolvimento low-code que está em busca de insights que impulsionem a investigação, eficiência e excelência. Minha jornada é alavancada pela curiosidade e pelo desejo de transformar informações em soluções práticas. Eu realmente acredito que os dados são uma chave para vender oportunidades de melhoria e tomar decisões informadas e seguras. Além disso, tenho me aventurado na Ciência de dados e cada vez fico mais fascinada com esse universo.
 
 📊 Minha Missão: Explorar vastos conjuntos de dados, extrair conhecimentos valiosos e aplicá-los para melhorar processos. Do desenho de algoritmos ao desenvolvimento de modelos preditivos, tenho foco na tomada de decisões com base em dados.
 
